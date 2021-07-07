@@ -19,7 +19,7 @@ AOS.init();
 
 /*xxxxxxxxxxxxxxxx Count Down xxxxxxxxxxxxxxxxxxxxxx*/
 // Set a valid end date
-var countDownDate = new Date("Feb 21, 2021 11:00:00").getTime();
+var countDownDate = new Date("Feb 21, 2023 11:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
